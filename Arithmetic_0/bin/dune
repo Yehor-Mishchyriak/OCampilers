@@ -1,0 +1,4 @@
+(executable
+ (public_name arithmetic_0)
+ (name main)
+ (libraries arithmetic_0))
